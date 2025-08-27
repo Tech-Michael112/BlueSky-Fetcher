@@ -7,7 +7,7 @@ import json
 """
 Go to blue sky.com to understand more of the web system
 code was modified and written by Michael
-its used to extract data to the last cursor list
+its used to extract data to the last cursor list for followers list
 thanks for reading"""
 
 
